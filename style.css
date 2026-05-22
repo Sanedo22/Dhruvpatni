@@ -4,7 +4,6 @@
 */
 
 :root {
-    /* Classic Terminal Palette */
     --clr-bg: #050505;
     --clr-primary: #00ff41; /* CRT Bright Green */
     --clr-primary-dim: rgba(0, 255, 65, 0.4);
